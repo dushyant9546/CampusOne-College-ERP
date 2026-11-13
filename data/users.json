@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Dushyant Singh",
+        "email": "student@campusone.demo",
+        "role": "student",
+        "password": "$2y$10$oGi\/wq9THufjIoZGZIk5ZedCFqZnvMIPeeNRNxxDlEGxvJKrEiOji",
+        "enrollment": "25CS003593",
+        "department": "CSE (Cybersecurity)",
+        "semester": "3rd"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Meera Joshi",
+        "email": "faculty@campusone.demo",
+        "role": "faculty",
+        "password": "$2y$10$ppd01avXzb8ufUOYLOV6iefqV0.BSbMzWlEbFulgfvmKkMxB2YRqq",
+        "department": "Computer Science",
+        "employee_id": "FAC102"
+    },
+    {
+        "id": 3,
+        "name": "Campus Administrator",
+        "email": "admin@campusone.demo",
+        "role": "admin",
+        "password": "$2y$10$\/ssVGd2EzXzSso2GYOsebesSj..Wwku0DQNDMSqoUIRGaQCAYZc3.",
+        "department": "Administration",
+        "employee_id": "ADM001"
+    }
+]

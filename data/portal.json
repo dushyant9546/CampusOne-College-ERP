@@ -1,0 +1,163 @@
+{
+    "announcements": [
+        {
+            "id": 1,
+            "title": "Mid-semester examination schedule",
+            "message": "The examination timetable has been published. Please review the academic portal.",
+            "date": "2026-11-03",
+            "by": "Academic Office"
+        },
+        {
+            "id": 2,
+            "title": "Fee payment reminder",
+            "message": "Semester fee balance is due by November 15, 2026.",
+            "date": "2026-11-02",
+            "by": "Accounts Department"
+        },
+        {
+            "id": 3,
+            "title": "TechFest registrations open",
+            "message": "Register for workshops, coding competitions, and project showcases.",
+            "date": "2026-10-30",
+            "by": "Student Council"
+        }
+    ],
+    "attendance": [
+        {
+            "student": "Dushyant Singh",
+            "enrollment": "25CS003593",
+            "subject": "Operating Systems",
+            "attended": 21,
+            "total": 24
+        },
+        {
+            "student": "Dushyant Singh",
+            "enrollment": "25CS003593",
+            "subject": "Database Systems",
+            "attended": 19,
+            "total": 22
+        },
+        {
+            "student": "Dushyant Singh",
+            "enrollment": "25CS003593",
+            "subject": "Computer Networks",
+            "attended": 18,
+            "total": 22
+        },
+        {
+            "student": "Dushyant Singh",
+            "enrollment": "25CS003593",
+            "subject": "Data Structures",
+            "attended": 23,
+            "total": 25
+        },
+        {
+            "student": "Dushyant Singh",
+            "enrollment": "25CS003593",
+            "subject": "Discrete Mathematics",
+            "attended": 17,
+            "total": 21
+        },
+        {
+            "student": "Dushyant Singh",
+            "enrollment": "25CS003593",
+            "subject": "Web Development",
+            "attended": 20,
+            "total": 23
+        }
+    ],
+    "courses": [
+        {
+            "code": "CSE2301",
+            "name": "Operating Systems",
+            "faculty": "Dr. Meera Joshi",
+            "credits": 4,
+            "room": "A-103"
+        },
+        {
+            "code": "CSE2302",
+            "name": "Database Systems",
+            "faculty": "Prof. R. Sharma",
+            "credits": 4,
+            "room": "B-204"
+        },
+        {
+            "code": "CSE2303",
+            "name": "Computer Networks",
+            "faculty": "Prof. A. Khan",
+            "credits": 3,
+            "room": "C-12"
+        },
+        {
+            "code": "CSE2304",
+            "name": "Data Structures",
+            "faculty": "Dr. N. Patel",
+            "credits": 3,
+            "room": "A-205"
+        },
+        {
+            "code": "MAT2301",
+            "name": "Discrete Mathematics",
+            "faculty": "Dr. S. Verma",
+            "credits": 2,
+            "room": "B-101"
+        },
+        {
+            "code": "CSE2305",
+            "name": "Web Development",
+            "faculty": "Prof. P. Gupta",
+            "credits": 2,
+            "room": "Lab W-3"
+        }
+    ],
+    "fees": {
+        "total": 48500,
+        "paid": 36000,
+        "balance": 12500,
+        "due": "2026-11-15"
+    },
+    "timetable": [
+        {
+            "day": "Monday",
+            "time": "09:00 - 10:00",
+            "subject": "Database Systems",
+            "room": "B-204"
+        },
+        {
+            "day": "Monday",
+            "time": "10:30 - 11:30",
+            "subject": "Operating Systems",
+            "room": "A-103"
+        },
+        {
+            "day": "Tuesday",
+            "time": "10:30 - 11:30",
+            "subject": "Database Systems",
+            "room": "B-204"
+        },
+        {
+            "day": "Tuesday",
+            "time": "12:00 - 01:00",
+            "subject": "Computer Networks",
+            "room": "C-12"
+        },
+        {
+            "day": "Wednesday",
+            "time": "09:00 - 10:00",
+            "subject": "Data Structures",
+            "room": "A-205"
+        },
+        {
+            "day": "Thursday",
+            "time": "12:00 - 01:00",
+            "subject": "Web Development",
+            "room": "Lab W-3"
+        },
+        {
+            "day": "Friday",
+            "time": "02:00 - 03:00",
+            "subject": "Discrete Mathematics",
+            "room": "B-101"
+        }
+    ]
+}
